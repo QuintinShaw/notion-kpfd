@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Keep Friends 交个朋友',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'kpfd.com',
+  author: 'Quintin Shaw',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
@@ -56,10 +56,6 @@ export default siteConfig({
     {
       title: '友情链接',
       pageId: 'f124d1b89be44091b72c9eaf0fa86d91'
-    },
-    {
-      title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
     }
   ]
 })
